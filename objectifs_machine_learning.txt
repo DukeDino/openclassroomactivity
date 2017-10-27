@@ -1,0 +1,2 @@
+Objectifs du « Machine Learning »
+Taxonomie des algorithmes Entrainement, validation et tests Evaluation et métriques de performances Problèmes liés à la grande dimension
