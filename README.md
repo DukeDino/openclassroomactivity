@@ -1,17 +1,11 @@
-# openclassroomactivity
+# openclassroomactivit
 
-Learning project for machine learning
+Cours sur le machine learning
 
-You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.
+Une grande partie de ce contenu n'a jamais été enseignée ailleurs et est tirée de mon expérience de construction et d'expédition de nombreux produits d'apprentissage en profondeur. Ce cours comporte également deux «simulateurs de vol» qui vous permettent de pratiquer la prise de décision en tant que chef de projet d'apprentissage automatique. Cela fournit une «expérience de l'industrie» que vous pourriez obtenir autrement seulement après des années d'expérience de travail ML.
 
-Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
-
-After 2 weeks, you will: 
-- Understand how to diagnose errors in a machine learning system, and 
-- Be able to prioritize the most promising directions for reducing error
-- Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
-- Know how to apply end-to-end learning, transfer learning, and multi-task learning
-
-I've seen teams waste months or years through not understanding the principles taught in this course. I hope this two week course will save you months of time.
-
-This is a standalone course, and you can take this so long as you have basic machine learning knowledge. This is the third course in the Deep Learning Specialization
+Après 2 semaines, vous devrez:
+- Comprendre comment diagnostiquer les erreurs dans un système d'apprentissage automatique, et
+- Etre capable de prioriser les directions les plus prometteuses pour réduire les erreurs
+- Comprendre les paramètres de ML complexes, tels que les ensembles d'entraînement / de test incompatibles, et comparer et / ou surpasser les performances au niveau humain
+- Savoir appliquer lissage de bout en bout, transférer l'apprentissage et l'apprentissage multi-tâche
